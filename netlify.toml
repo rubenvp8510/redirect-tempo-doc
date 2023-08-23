@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/old-path"
+  to = "https://grafana.com/docs/tempo/latest/setup/operator/"
+  status = 301
+  force = true
